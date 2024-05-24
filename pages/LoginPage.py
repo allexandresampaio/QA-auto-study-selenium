@@ -1,7 +1,5 @@
 from selenium.webdriver.common.by import By
-
 from pages.PageObject import PageObject
-
 
 class LoginPage(PageObject):
     myURL = 'https://www.saucedemo.com/'
